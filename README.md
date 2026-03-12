@@ -32,8 +32,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoluiz&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ## 🌐 Contato
 
 <p>
-<a href="https://github.com/SEU-USUARIO">
+<a href="https://github.com/edvaldoluiz">
 <img src="https://img.shields.io/badge/GitHub-Perfil-000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
