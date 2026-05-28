@@ -24,7 +24,7 @@
 
   <br><br>
 
-  HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; Python &nbsp; | &nbsp; Java
+   &nbsp; | &nbsp;  &nbsp; | &nbsp;  &nbsp; | &nbsp;  &nbsp; | &nbsp; 
 </p>
 
 ---
@@ -32,29 +32,11 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
+  <img height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
 
-<!-- STATS PRINCIPAL (mais estável) -->
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
-
-<!-- TOP LANGS -->
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoluiz&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-
-</p>
-
----
-
-## ⚡ Versão alternativa (caso não apareça stats acima)
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=radical" />
-
-<img height="180em"
-src="https://streak-stats.demolab.com?user=edvaldoluiz&theme=radical" />
-
+  <img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoluiz&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
