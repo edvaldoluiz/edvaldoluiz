@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Edvaldo Luiz 👋</h1>
+<h1 align="center">Olá, eu sou Edvaldo Luiz </h1>
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
@@ -23,14 +23,21 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
+<p align="left">
+  HTML &nbsp;&nbsp;&nbsp;
+  CSS &nbsp;&nbsp;&nbsp;
+  JavaScript &nbsp;&nbsp;&nbsp;
+  Python
+</p>
+
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=radical&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoluiz&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoluiz&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
