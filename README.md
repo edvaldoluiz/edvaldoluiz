@@ -20,20 +20,21 @@
 
 ## 🛠️ Tecnologias
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<p align="left">
+  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<p>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoluiz&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoluiz&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
@@ -41,9 +42,9 @@
 ## 🌐 Contato
 
 <p>
-<a href="https://github.com/edvaldoluiz">
-<img src="https://img.shields.io/badge/GitHub-Perfil-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  <a href="https://github.com/edvaldoluiz">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
