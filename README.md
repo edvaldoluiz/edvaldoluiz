@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Edvaldo Luiz 👋</h1>
+<h1 align="center">Olá, eu sou Edvaldo Luiz </h1>
 
 <p align="center">
 🎓 Estudante de Análise de Desenvolvimento de Sistemas <br>
