@@ -1,51 +1,45 @@
-<h1 align="center">Olá, eu sou Edvaldo Luiz </h1>
+# Olá, eu sou Edvaldo Luiz 
 
-<p align="center">
-🎓 Estudante de Análise de Desenvolvimento de Sistemas <br>
-💻 Técnico em Informática para Internet (IPI) <br>
+🎓 Estudante de Análise de Desenvolvimento de Sistemas
+💻 Técnico em Informática para Internet (IPI)
 🚀 Desenvolvedor em formação com interesse em desenvolvimento web e inteligência artificial
-</p>
 
 ---
 
-## 👨‍💻 Sobre mim
+### 👨‍💻 Sobre mim
 
-- 🎓 Estudante de **Análise de Desenvolvimento de Sistemas**
-- 💻 Formação técnica em **Informática para Internet (IPI)**
-- 🧠 Interesse em **Inteligência Artificial e Visão Computacional**
-- 🚀 Desenvolvimento de projetos acadêmicos e pessoais
+* 🎓 Estudante de Análise de Desenvolvimento de Sistemas
+* 💻 Formação técnica em Informática para Internet (IPI)
+* 🧠 Interesse em Inteligência Artificial e Visão Computacional
+* 🚀 Desenvolvimento de projetos acadêmicos e pessoais
 
 ---
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
-
-  <br><br>
-
-   &nbsp;  &nbsp;  &nbsp;&nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
-
-<p align="center">
-  <img height="180em"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=radical&hide_border=true" />
-
-  <img height="180em"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edvaldoluiz&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radial&include_all_commits=true" alt="Estatísticas do GitHub" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radial" alt="Linguagens mais usadas" height="170em" />
+</div>
 
 ---
 
-## 🌐 Contato
+### 🌐 Contato
 
 <p align="left">
-  <a href="https://github.com/edvaldoluiz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/edvaldo-luiz-b38b4a2bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
