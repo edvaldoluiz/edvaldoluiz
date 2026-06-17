@@ -51,6 +51,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/mockups?username=edvaldoluiz&theme=tokyonight&hide_border=true&show=reviews,discussions" alt="Total de Contribuições" style="display:none;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edvaldoluiz&theme=tokyonight" alt="Contribuições Totais" width="100%" />
 </p>
