@@ -50,6 +50,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="200" />
 </p>
 
+### 📊 Estatísticas e Contribuições
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Contribuições%20Totais-edvaldoluiz?style=for-the-badge&labelColor=1a1b26&color=7aa2f7&logo=github" alt="Total de Contribuições" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoluiz&layout=donut&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" height="200" />
 </p>
