@@ -1,10 +1,10 @@
 # Olá, eu sou Edvaldo Luiz 
 
-Estudante de Análise de Desenvolvimento de Sistemas
+🎓 Estudante de Análise de Desenvolvimento de Sistemas
 
-Técnico em Informática para Internet (IPI)
+💻 Técnico em Informática para Internet (IPI)
 
-Desenvolvedor em formação com interesse em desenvolvimento web e inteligência artificial
+🚀 Desenvolvedor em formação com interesse em desenvolvimento web e inteligência artificial
 
 ---
 
@@ -33,6 +33,9 @@ Desenvolvedor em formação com interesse em desenvolvimento web e inteligência
 ### 🌐 Contato
 
 <p align="left">
+  <a href="https://github.com/SEU_USUARIO_GITHUB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://www.linkedin.com/in/edvaldo-luiz-b38b4a2bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
