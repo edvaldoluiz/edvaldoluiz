@@ -51,5 +51,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edvaldoluiz&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme.herokuapp.com/?user=edvaldoluiz&theme=tokyonight&hide_border=true" />
 </p>
