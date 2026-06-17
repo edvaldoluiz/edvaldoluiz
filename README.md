@@ -1,4 +1,4 @@
-# Olá, eu sou Edvaldo Luiz 
+# Edvaldo Luiz 
 
 🎓 Estudante de Análise de Desenvolvimento de Sistemas
 
@@ -39,4 +39,17 @@
   <a href="https://www.linkedin.com/in/edvaldo-luiz-b38b4a2bb/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Edvaldo" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoluiz&layout=compact&theme=tokyonight" alt="Idiomas mais usados" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edvaldoluiz&theme=tokyonight" alt="Streak do GitHub" />
 </p>
