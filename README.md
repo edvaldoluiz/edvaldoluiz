@@ -51,5 +51,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edvaldoluiz&theme=tokyonight" alt="Contribuições Totais" width="100%" />
+  <img src="https://img.shields.io/badge/Contribuições%20Totais-edvaldoluiz?style=for-the-badge&labelColor=1a1b26&color=7aa2f7&logo=github" alt="Total de Contribuições" />
 </p>
