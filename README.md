@@ -43,9 +43,13 @@
 
 ---
 
-### 📊 Estatísticas e Tecnologias
+### 📊 Estatísticas e Contribuições
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoluiz&layout=donut&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edvaldoluiz&theme=tokyonight&hide_border=true" alt="Gráfico de Contribuições" width="100%" />
 </p>
