@@ -1,8 +1,10 @@
 # Olá, eu sou Edvaldo Luiz 
 
-🎓 Estudante de Análise de Desenvolvimento de Sistemas
-💻 Técnico em Informática para Internet (IPI)
-🚀 Desenvolvedor em formação com interesse em desenvolvimento web e inteligência artificial
+Estudante de Análise de Desenvolvimento de Sistemas
+
+Técnico em Informática para Internet (IPI)
+
+Desenvolvedor em formação com interesse em desenvolvimento web e inteligência artificial
 
 ---
 
@@ -25,14 +27,6 @@
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radial&include_all_commits=true" alt="Estatísticas do GitHub" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radial" alt="Linguagens mais usadas" height="170em" />
-</div>
 
 ---
 
