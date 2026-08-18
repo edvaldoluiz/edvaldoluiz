@@ -41,11 +41,3 @@
   </a>
 </p>
 
----
-
-### 📊 Estatísticas e Tecnologias
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoluiz&layout=donut&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=edvaldoluiz&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="200" />
-</p>
